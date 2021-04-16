@@ -4,6 +4,8 @@ Projeto inicial customizado para criação de aplicações web baseadas em React
 pré-configurado para utilização de Jest, Storybook, Babel, Eslint, Prettier e criação de componentes automatizada com Plop,
 além de outras otimizações
 
+Um exemplo deste projeto pode ser visualizado em: https://boilerplate-next-like-a-pro-git-main-darthyd.vercel.app/
+
 Para documentação e mais sobre as tecnologias usadas:
 - [TypeScript](https://www.typescriptlang.org/)
 - [NextJS](https://nextjs.org/)
