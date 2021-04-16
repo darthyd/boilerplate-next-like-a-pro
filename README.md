@@ -18,16 +18,8 @@ Para documentação e mais sobre as tecnologias usadas:
 
 ## Iniciando um projeto
 
-### Rode um dos seguintes comandos: 
-
-#### Usando o npx:
-
 ```sh
 npx create-next-app -e https://github.com/darthyd/boilerplate-next-like-a-pro
-```
-
-#### Usando o yarn:
-
-```sh
+# ou então
 yarn create next-app -e https://github.com/darthyd/boilerplate-next-like-a-pro
 ```
