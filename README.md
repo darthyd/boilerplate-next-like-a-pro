@@ -4,6 +4,15 @@ Projeto inicial customizado para criação de aplicações web baseadas em React
 pré-configurado para utilização de Jest, Storybook, Babel, Eslint, Prettier e criação de componentes automatizada com Plop,
 além de outras otimizações
 
+- [TypeScript](https://www.typescriptlang.org/)
+- [NextJS](https://nextjs.org/)
+- [Styled Components](https://styled-components.com/)
+- [Jest](https://jestjs.io/)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
+- [Storybook](https://storybook.js.org/)
+- [Eslint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+
 #
 
 ## Iniciando um projeto
