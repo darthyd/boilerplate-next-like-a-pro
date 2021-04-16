@@ -11,12 +11,12 @@ pré-configurado para utilização de Jest, Storybook, Babel, Eslint, Prettier e
 
 #### Usando o npx:
 
-```
+```sh
 npx create-next-app -e https://github.com/darthyd/boilerplate-next-like-a-pro
 ```
 
 #### Usando o yarn:
 
-```
+```sh
 yarn create next-app -e https://github.com/darthyd/boilerplate-next-like-a-pro
 ```
